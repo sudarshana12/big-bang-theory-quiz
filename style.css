@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Inconsolata:wght@600&family=Irish+Grover&family=Montserrat:wght@600&family=Oswald&family=Zen+Antique+Soft&display=swap');
+
+:root{
+    --primary-color: #d90429;
+}
+
+body{
+    font-family: 'Oswald', sans-serif;
+    text-align: left;
+    color: var(--primary-color);
+    background-color: black;
+}
+.quiz-form{
+    color : white;
+}
+.footer{
+    text-align: right;
+}
+.link{
+    color: var(--primary-color);
+    text-decoration: none;
+    padding-right: 1rem;
+}
+#bazinga-btn{
+    margin: auto;
+    margin-top: 30px;
+    color: black;
+    background-color: white ;
+    border-width: medium;
+    padding: 0.5rem;
+}
