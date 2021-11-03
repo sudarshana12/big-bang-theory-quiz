@@ -16,6 +16,7 @@ body{
 .footer{
     text-align: right;
 }
+    
 .link{
     color: var(--primary-color);
     text-decoration: none;
@@ -28,4 +29,8 @@ body{
     background-color: white ;
     border-width: medium;
     padding: 0.5rem;
+}
+.container{
+    min-height: 80vh;
+
 }
